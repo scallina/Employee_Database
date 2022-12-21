@@ -13,4 +13,6 @@
 
 ## Summary 
 - by the end of the "silver tsunami", 52,127 titles will be left vacant due to retirement. This will take place over several years. 
+![My Image](https://github.com/scallina/Employee_Database/blob/main/images/unique%20titles.png)
 - using the bar chart shown below, we can infer that there will be enough senior staff and senior engineers to serve as mentors in the mentorship program for the next few years. However, as older employees begin to leave, senior staff pools will be the the most negatively impacted. I would recommend placing priority on senior staff members to serve as mentors in the program now to ensure generational knowledge is passed on. 
+![My Image](https://github.com/scallina/Employee_Database/blob/main/images/Titles%20by%20Start%20Year.png)
